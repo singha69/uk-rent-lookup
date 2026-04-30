@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.wrangler/
+.dev.vars
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+
+# Build/test artifacts
+coverage/
+dist/
