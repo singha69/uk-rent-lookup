@@ -1,0 +1,8 @@
+name = "uk-rent-lookup"
+main = "src/index.ts"
+compatibility_date = "2026-01-01"
+
+[[rules]]
+type = "Text"
+globs = ["**/*.json"]
+fallthrough = false
