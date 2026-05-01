@@ -1,0 +1,41 @@
+name: Refresh rent data
+on:
+  schedule:
+    - cron: "0 3 1 * *"  # 03:00 UTC, 1st of every month
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: data/requirements-dev.txt
+
+      - name: Install dependencies
+        working-directory: data
+        run: pip install -r requirements-dev.txt
+
+      - name: Run pipeline tests
+        working-directory: data
+        run: pytest -v
+
+      - name: Run pipeline
+        working-directory: data
+        run: python pipeline.py
+
+      - name: Open PR if data changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "data: refresh ${{ github.run_id }}"
+          branch: data-refresh-${{ github.run_id }}
+          title: "data: monthly refresh"
+          body: "Automated refresh of `worker/data/rents.json` and `worker/data/regions.json` from ONS PIPR + Open Geography Portal."
+          delete-branch: true
