@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UK Rent Lookup</title>
+  <meta name="description" content="Average monthly rent for any UK postcode, sourced from official UK data." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <header>
+      <h1>UK Rent Lookup</h1>
+      <p class="tagline">Average monthly rent for your area, from official UK data.</p>
+    </header>
+
+    <form id="lookup-form" autocomplete="off">
+      <input
+        id="postcode"
+        name="postcode"
+        type="text"
+        inputmode="text"
+        placeholder="Enter UK postcode (e.g. SW1A 1AA)"
+        aria-label="UK postcode"
+        required
+      />
+      <button type="submit">Search</button>
+    </form>
+
+    <section id="result" hidden></section>
+    <section id="error" hidden></section>
+
+    <footer>
+      <p>
+        Data: <a href="https://www.ons.gov.uk" target="_blank" rel="noopener">ONS</a>
+        Price Index of Private Rents.
+        Postcode lookup by <a href="https://postcodes.io" target="_blank" rel="noopener">postcodes.io</a>.
+      </p>
+      <p>Figures are area averages. Not a valuation of any specific property.</p>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
