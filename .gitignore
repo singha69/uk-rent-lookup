@@ -20,3 +20,8 @@ venv/
 # Build/test artifacts
 coverage/
 dist/
+
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
