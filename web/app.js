@@ -1,3 +1,5 @@
+import { attachSuggestions } from "./suggestions.js";
+
 const WORKER_URL = "https://uk-rent-lookup.sap09777.workers.dev";
 
 const POUND = new Intl.NumberFormat("en-GB", {
@@ -56,13 +58,10 @@ function showError(code) {
   errorEl.hidden = false;
 }
 
-form.addEventListener("submit", async (e) => {
-  e.preventDefault();
-  const pc = input.value.trim();
-  if (!pc) return showError("missing_postcode");
+async function fetchAndRender(postcode) {
   submit.disabled = true;
   try {
-    const resp = await fetch(`${WORKER_URL}/lookup?postcode=${encodeURIComponent(pc)}`);
+    const resp = await fetch(`${WORKER_URL}/lookup?postcode=${encodeURIComponent(postcode)}`);
     const body = await resp.json();
     if (!resp.ok) return showError(body.error ?? "internal_error");
     showResult(body);
@@ -71,4 +70,15 @@ form.addEventListener("submit", async (e) => {
   } finally {
     submit.disabled = false;
   }
+}
+
+attachSuggestions(input, ({ postcode }) => {
+  fetchAndRender(postcode);
+});
+
+form.addEventListener("submit", (e) => {
+  e.preventDefault();
+  const pc = input.value.trim();
+  if (!pc) return showError("missing_postcode");
+  fetchAndRender(pc);
 });

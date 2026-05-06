@@ -18,15 +18,22 @@
     </header>
 
     <form id="lookup-form" autocomplete="off">
-      <input
-        id="postcode"
-        name="postcode"
-        type="text"
-        inputmode="text"
-        placeholder="Enter UK postcode (e.g. SW1A 1AA)"
-        aria-label="UK postcode"
-        required
-      />
+      <div class="search-wrap">
+        <input
+          id="postcode"
+          name="postcode"
+          type="text"
+          inputmode="text"
+          placeholder="Enter postcode or area (e.g. SW1A 1AA, Ilford)"
+          aria-label="UK postcode or area name"
+          aria-controls="suggestions"
+          aria-expanded="false"
+          aria-autocomplete="list"
+          autocomplete="off"
+          required
+        />
+        <ul id="suggestions" role="listbox" hidden></ul>
+      </div>
       <button type="submit">Search</button>
     </form>
 
@@ -43,6 +50,6 @@
     </footer>
   </main>
 
-  <script src="app.js"></script>
+  <script type="module" src="app.js"></script>
 </body>
 </html>
