@@ -2,2451 +2,2451 @@
   "E06000001": {
     "area_level": "local_authority",
     "area_name": "Hartlepool",
-    "monthly_rent_gbp": 570,
-    "period": "2026-03",
+    "monthly_rent_gbp": 566,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000002": {
     "area_level": "local_authority",
     "area_name": "Middlesbrough",
     "monthly_rent_gbp": 709,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000003": {
     "area_level": "local_authority",
     "area_name": "Redcar and Cleveland",
-    "monthly_rent_gbp": 640,
-    "period": "2026-03",
+    "monthly_rent_gbp": 644,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000004": {
     "area_level": "local_authority",
     "area_name": "Stockton-on-Tees",
-    "monthly_rent_gbp": 732,
-    "period": "2026-03",
+    "monthly_rent_gbp": 736,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000005": {
     "area_level": "local_authority",
     "area_name": "Darlington",
-    "monthly_rent_gbp": 666,
-    "period": "2026-03",
+    "monthly_rent_gbp": 671,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000006": {
     "area_level": "local_authority",
     "area_name": "Halton",
-    "monthly_rent_gbp": 732,
-    "period": "2026-03",
+    "monthly_rent_gbp": 735,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000007": {
     "area_level": "local_authority",
     "area_name": "Warrington",
-    "monthly_rent_gbp": 880,
-    "period": "2026-03",
+    "monthly_rent_gbp": 882,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000008": {
     "area_level": "local_authority",
     "area_name": "Blackburn with Darwen",
-    "monthly_rent_gbp": 707,
-    "period": "2026-03",
+    "monthly_rent_gbp": 709,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000009": {
     "area_level": "local_authority",
     "area_name": "Blackpool",
-    "monthly_rent_gbp": 696,
-    "period": "2026-03",
+    "monthly_rent_gbp": 700,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000010": {
     "area_level": "local_authority",
     "area_name": "Kingston upon Hull, City of",
-    "monthly_rent_gbp": 684,
-    "period": "2026-03",
+    "monthly_rent_gbp": 689,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000011": {
     "area_level": "local_authority",
     "area_name": "East Riding of Yorkshire",
-    "monthly_rent_gbp": 709,
-    "period": "2026-03",
+    "monthly_rent_gbp": 717,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000012": {
     "area_level": "local_authority",
     "area_name": "North East Lincolnshire",
-    "monthly_rent_gbp": 614,
-    "period": "2026-03",
+    "monthly_rent_gbp": 617,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000013": {
     "area_level": "local_authority",
     "area_name": "North Lincolnshire",
-    "monthly_rent_gbp": 631,
-    "period": "2026-03",
+    "monthly_rent_gbp": 638,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000014": {
     "area_level": "local_authority",
     "area_name": "York",
-    "monthly_rent_gbp": 1173,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1178,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000015": {
     "area_level": "local_authority",
     "area_name": "Derby",
-    "monthly_rent_gbp": 847,
-    "period": "2026-03",
+    "monthly_rent_gbp": 849,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000016": {
     "area_level": "local_authority",
     "area_name": "Leicester",
-    "monthly_rent_gbp": 1026,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1025,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000017": {
     "area_level": "local_authority",
     "area_name": "Rutland",
-    "monthly_rent_gbp": 968,
-    "period": "2026-03",
+    "monthly_rent_gbp": 963,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000018": {
     "area_level": "local_authority",
     "area_name": "Nottingham",
-    "monthly_rent_gbp": 1008,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1007,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000019": {
     "area_level": "local_authority",
     "area_name": "Herefordshire, County of",
-    "monthly_rent_gbp": 815,
-    "period": "2026-03",
+    "monthly_rent_gbp": 809,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000020": {
     "area_level": "local_authority",
     "area_name": "Telford and Wrekin",
-    "monthly_rent_gbp": 850,
-    "period": "2026-03",
+    "monthly_rent_gbp": 853,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000021": {
     "area_level": "local_authority",
     "area_name": "Stoke-on-Trent",
     "monthly_rent_gbp": 708,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000022": {
     "area_level": "local_authority",
     "area_name": "Bath and North East Somerset",
-    "monthly_rent_gbp": 1876,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1877,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000023": {
     "area_level": "local_authority",
     "area_name": "Bristol, City of",
-    "monthly_rent_gbp": 1888,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1885,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000024": {
     "area_level": "local_authority",
     "area_name": "North Somerset",
-    "monthly_rent_gbp": 1194,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1195,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000025": {
     "area_level": "local_authority",
     "area_name": "South Gloucestershire",
-    "monthly_rent_gbp": 1445,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1446,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000026": {
     "area_level": "local_authority",
     "area_name": "Plymouth",
-    "monthly_rent_gbp": 985,
-    "period": "2026-03",
+    "monthly_rent_gbp": 989,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000027": {
     "area_level": "local_authority",
     "area_name": "Torbay",
-    "monthly_rent_gbp": 899,
-    "period": "2026-03",
+    "monthly_rent_gbp": 901,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000030": {
     "area_level": "local_authority",
     "area_name": "Swindon",
-    "monthly_rent_gbp": 1082,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1085,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000031": {
     "area_level": "local_authority",
     "area_name": "Peterborough",
-    "monthly_rent_gbp": 976,
-    "period": "2026-03",
+    "monthly_rent_gbp": 978,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000032": {
     "area_level": "local_authority",
     "area_name": "Luton",
-    "monthly_rent_gbp": 1211,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1214,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000033": {
     "area_level": "local_authority",
     "area_name": "Southend-on-Sea",
-    "monthly_rent_gbp": 1278,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1282,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000034": {
     "area_level": "local_authority",
     "area_name": "Thurrock",
-    "monthly_rent_gbp": 1344,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1355,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000035": {
     "area_level": "local_authority",
     "area_name": "Medway",
-    "monthly_rent_gbp": 1241,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1237,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000036": {
     "area_level": "local_authority",
     "area_name": "Bracknell Forest",
-    "monthly_rent_gbp": 1501,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1499,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000037": {
     "area_level": "local_authority",
     "area_name": "West Berkshire",
-    "monthly_rent_gbp": 1273,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1283,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000038": {
     "area_level": "local_authority",
     "area_name": "Reading",
     "monthly_rent_gbp": 1579,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000039": {
     "area_level": "local_authority",
     "area_name": "Slough",
-    "monthly_rent_gbp": 1567,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1571,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000040": {
     "area_level": "local_authority",
     "area_name": "Windsor and Maidenhead",
-    "monthly_rent_gbp": 1809,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1814,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000041": {
     "area_level": "local_authority",
     "area_name": "Wokingham",
-    "monthly_rent_gbp": 1479,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1481,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000042": {
     "area_level": "local_authority",
     "area_name": "Milton Keynes",
-    "monthly_rent_gbp": 1329,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1332,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000043": {
     "area_level": "local_authority",
     "area_name": "Brighton and Hove",
-    "monthly_rent_gbp": 1826,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1822,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000044": {
     "area_level": "local_authority",
     "area_name": "Portsmouth",
-    "monthly_rent_gbp": 1357,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1362,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000045": {
     "area_level": "local_authority",
     "area_name": "Southampton",
-    "monthly_rent_gbp": 1246,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1248,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000046": {
     "area_level": "local_authority",
     "area_name": "Isle of Wight",
-    "monthly_rent_gbp": 940,
-    "period": "2026-03",
+    "monthly_rent_gbp": 943,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000047": {
     "area_level": "local_authority",
     "area_name": "County Durham",
-    "monthly_rent_gbp": 632,
-    "period": "2026-03",
+    "monthly_rent_gbp": 635,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000049": {
     "area_level": "local_authority",
     "area_name": "Cheshire East",
-    "monthly_rent_gbp": 972,
-    "period": "2026-03",
+    "monthly_rent_gbp": 975,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000050": {
     "area_level": "local_authority",
     "area_name": "Cheshire West and Chester",
-    "monthly_rent_gbp": 959,
-    "period": "2026-03",
+    "monthly_rent_gbp": 966,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000051": {
     "area_level": "local_authority",
     "area_name": "Shropshire",
-    "monthly_rent_gbp": 803,
-    "period": "2026-03",
+    "monthly_rent_gbp": 808,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000052": {
     "area_level": "local_authority",
     "area_name": "Cornwall",
-    "monthly_rent_gbp": 1004,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1002,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000054": {
     "area_level": "local_authority",
     "area_name": "Wiltshire",
-    "monthly_rent_gbp": 1056,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1059,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000055": {
     "area_level": "local_authority",
     "area_name": "Bedford",
-    "monthly_rent_gbp": 1163,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1166,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000056": {
     "area_level": "local_authority",
     "area_name": "Central Bedfordshire",
-    "monthly_rent_gbp": 1238,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1242,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000057": {
     "area_level": "local_authority",
     "area_name": "Northumberland",
-    "monthly_rent_gbp": 664,
-    "period": "2026-03",
+    "monthly_rent_gbp": 671,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000058": {
     "area_level": "local_authority",
     "area_name": "Bournemouth, Christchurch and Poole",
-    "monthly_rent_gbp": 1397,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1402,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000059": {
     "area_level": "local_authority",
     "area_name": "Dorset",
-    "monthly_rent_gbp": 1037,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1039,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000060": {
     "area_level": "local_authority",
     "area_name": "Buckinghamshire",
-    "monthly_rent_gbp": 1467,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1473,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000061": {
     "area_level": "local_authority",
     "area_name": "North Northamptonshire",
-    "monthly_rent_gbp": 978,
-    "period": "2026-03",
+    "monthly_rent_gbp": 982,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000062": {
     "area_level": "local_authority",
     "area_name": "West Northamptonshire",
-    "monthly_rent_gbp": 1070,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1071,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000063": {
     "area_level": "local_authority",
     "area_name": "Cumberland",
-    "monthly_rent_gbp": 659,
-    "period": "2026-03",
+    "monthly_rent_gbp": 662,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000064": {
     "area_level": "local_authority",
     "area_name": "Westmorland and Furness",
-    "monthly_rent_gbp": 797,
-    "period": "2026-03",
+    "monthly_rent_gbp": 801,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000065": {
     "area_level": "local_authority",
     "area_name": "North Yorkshire",
-    "monthly_rent_gbp": 831,
-    "period": "2026-03",
+    "monthly_rent_gbp": 832,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E06000066": {
     "area_level": "local_authority",
     "area_name": "Somerset",
-    "monthly_rent_gbp": 980,
-    "period": "2026-03",
+    "monthly_rent_gbp": 986,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000008": {
     "area_level": "local_authority",
     "area_name": "Cambridge",
-    "monthly_rent_gbp": 1795,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1800,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000009": {
     "area_level": "local_authority",
     "area_name": "East Cambridgeshire",
-    "monthly_rent_gbp": 1016,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1018,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000010": {
     "area_level": "local_authority",
     "area_name": "Fenland",
-    "monthly_rent_gbp": 830,
-    "period": "2026-03",
+    "monthly_rent_gbp": 832,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000011": {
     "area_level": "local_authority",
     "area_name": "Huntingdonshire",
-    "monthly_rent_gbp": 1045,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1046,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000012": {
     "area_level": "local_authority",
     "area_name": "South Cambridgeshire",
-    "monthly_rent_gbp": 1399,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1402,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000032": {
     "area_level": "local_authority",
     "area_name": "Amber Valley",
-    "monthly_rent_gbp": 784,
-    "period": "2026-03",
+    "monthly_rent_gbp": 787,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000033": {
     "area_level": "local_authority",
     "area_name": "Bolsover",
-    "monthly_rent_gbp": 692,
-    "period": "2026-03",
+    "monthly_rent_gbp": 697,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000034": {
     "area_level": "local_authority",
     "area_name": "Chesterfield",
-    "monthly_rent_gbp": 735,
-    "period": "2026-03",
+    "monthly_rent_gbp": 734,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000035": {
     "area_level": "local_authority",
     "area_name": "Derbyshire Dales",
-    "monthly_rent_gbp": 797,
-    "period": "2026-03",
+    "monthly_rent_gbp": 805,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000036": {
     "area_level": "local_authority",
     "area_name": "Erewash",
-    "monthly_rent_gbp": 831,
-    "period": "2026-03",
+    "monthly_rent_gbp": 832,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000037": {
     "area_level": "local_authority",
     "area_name": "High Peak",
-    "monthly_rent_gbp": 900,
-    "period": "2026-03",
+    "monthly_rent_gbp": 903,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000038": {
     "area_level": "local_authority",
     "area_name": "North East Derbyshire",
-    "monthly_rent_gbp": 775,
-    "period": "2026-03",
+    "monthly_rent_gbp": 774,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000039": {
     "area_level": "local_authority",
     "area_name": "South Derbyshire",
-    "monthly_rent_gbp": 871,
-    "period": "2026-03",
+    "monthly_rent_gbp": 873,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000040": {
     "area_level": "local_authority",
     "area_name": "East Devon",
-    "monthly_rent_gbp": 953,
-    "period": "2026-03",
+    "monthly_rent_gbp": 970,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000041": {
     "area_level": "local_authority",
     "area_name": "Exeter",
-    "monthly_rent_gbp": 1312,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1313,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000042": {
     "area_level": "local_authority",
     "area_name": "Mid Devon",
-    "monthly_rent_gbp": 869,
-    "period": "2026-03",
+    "monthly_rent_gbp": 872,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000043": {
     "area_level": "local_authority",
     "area_name": "North Devon",
-    "monthly_rent_gbp": 859,
-    "period": "2026-03",
+    "monthly_rent_gbp": 851,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000044": {
     "area_level": "local_authority",
     "area_name": "South Hams",
-    "monthly_rent_gbp": 996,
-    "period": "2026-03",
+    "monthly_rent_gbp": 998,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000045": {
     "area_level": "local_authority",
     "area_name": "Teignbridge",
-    "monthly_rent_gbp": 944,
-    "period": "2026-03",
+    "monthly_rent_gbp": 946,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000046": {
     "area_level": "local_authority",
     "area_name": "Torridge",
-    "monthly_rent_gbp": 788,
-    "period": "2026-03",
+    "monthly_rent_gbp": 787,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000047": {
     "area_level": "local_authority",
     "area_name": "West Devon",
     "monthly_rent_gbp": 837,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000061": {
     "area_level": "local_authority",
     "area_name": "Eastbourne",
     "monthly_rent_gbp": 1160,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000062": {
     "area_level": "local_authority",
     "area_name": "Hastings",
-    "monthly_rent_gbp": 1008,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1007,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000063": {
     "area_level": "local_authority",
     "area_name": "Lewes",
-    "monthly_rent_gbp": 1320,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1322,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000064": {
     "area_level": "local_authority",
     "area_name": "Rother",
-    "monthly_rent_gbp": 1162,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1163,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000065": {
     "area_level": "local_authority",
     "area_name": "Wealden",
-    "monthly_rent_gbp": 1259,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1260,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000066": {
     "area_level": "local_authority",
     "area_name": "Basildon",
-    "monthly_rent_gbp": 1396,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1402,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000067": {
     "area_level": "local_authority",
     "area_name": "Braintree",
-    "monthly_rent_gbp": 1227,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1230,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000068": {
     "area_level": "local_authority",
     "area_name": "Brentwood",
-    "monthly_rent_gbp": 1605,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1610,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000069": {
     "area_level": "local_authority",
     "area_name": "Castle Point",
-    "monthly_rent_gbp": 1231,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1241,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000070": {
     "area_level": "local_authority",
     "area_name": "Chelmsford",
     "monthly_rent_gbp": 1442,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000071": {
     "area_level": "local_authority",
     "area_name": "Colchester",
-    "monthly_rent_gbp": 1216,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1217,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000072": {
     "area_level": "local_authority",
     "area_name": "Epping Forest",
-    "monthly_rent_gbp": 1826,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1835,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000073": {
     "area_level": "local_authority",
     "area_name": "Harlow",
-    "monthly_rent_gbp": 1513,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1514,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000074": {
     "area_level": "local_authority",
     "area_name": "Maldon",
     "monthly_rent_gbp": 1151,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000075": {
     "area_level": "local_authority",
     "area_name": "Rochford",
-    "monthly_rent_gbp": 1285,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1293,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000076": {
     "area_level": "local_authority",
     "area_name": "Tendring",
-    "monthly_rent_gbp": 1048,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1050,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000077": {
     "area_level": "local_authority",
     "area_name": "Uttlesford",
-    "monthly_rent_gbp": 1285,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1282,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000078": {
     "area_level": "local_authority",
     "area_name": "Cheltenham",
-    "monthly_rent_gbp": 1233,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1240,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000079": {
     "area_level": "local_authority",
     "area_name": "Cotswold",
-    "monthly_rent_gbp": 1263,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1262,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000080": {
     "area_level": "local_authority",
     "area_name": "Forest of Dean",
-    "monthly_rent_gbp": 820,
-    "period": "2026-03",
+    "monthly_rent_gbp": 823,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000081": {
     "area_level": "local_authority",
     "area_name": "Gloucester",
-    "monthly_rent_gbp": 1099,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1110,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000082": {
     "area_level": "local_authority",
     "area_name": "Stroud",
-    "monthly_rent_gbp": 1036,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1039,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000083": {
     "area_level": "local_authority",
     "area_name": "Tewkesbury",
-    "monthly_rent_gbp": 983,
-    "period": "2026-03",
+    "monthly_rent_gbp": 989,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000084": {
     "area_level": "local_authority",
     "area_name": "Basingstoke and Deane",
     "monthly_rent_gbp": 1324,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000085": {
     "area_level": "local_authority",
     "area_name": "East Hampshire",
-    "monthly_rent_gbp": 1252,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1257,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000086": {
     "area_level": "local_authority",
     "area_name": "Eastleigh",
-    "monthly_rent_gbp": 1205,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1208,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000087": {
     "area_level": "local_authority",
     "area_name": "Fareham",
-    "monthly_rent_gbp": 1206,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1209,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000088": {
     "area_level": "local_authority",
     "area_name": "Gosport",
-    "monthly_rent_gbp": 1150,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1154,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000089": {
     "area_level": "local_authority",
     "area_name": "Hart",
-    "monthly_rent_gbp": 1406,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1414,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000090": {
     "area_level": "local_authority",
     "area_name": "Havant",
-    "monthly_rent_gbp": 1127,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1131,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000091": {
     "area_level": "local_authority",
     "area_name": "New Forest",
-    "monthly_rent_gbp": 1234,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1237,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000092": {
     "area_level": "local_authority",
     "area_name": "Rushmoor",
-    "monthly_rent_gbp": 1369,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1378,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000093": {
     "area_level": "local_authority",
     "area_name": "Test Valley",
-    "monthly_rent_gbp": 1203,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1204,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000094": {
     "area_level": "local_authority",
     "area_name": "Winchester",
-    "monthly_rent_gbp": 1498,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1501,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000095": {
     "area_level": "local_authority",
     "area_name": "Broxbourne",
-    "monthly_rent_gbp": 1649,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1648,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000096": {
     "area_level": "local_authority",
     "area_name": "Dacorum",
     "monthly_rent_gbp": 1577,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000098": {
     "area_level": "local_authority",
     "area_name": "Hertsmere",
-    "monthly_rent_gbp": 1787,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1796,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000099": {
     "area_level": "local_authority",
     "area_name": "North Hertfordshire",
-    "monthly_rent_gbp": 1408,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1415,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000102": {
     "area_level": "local_authority",
     "area_name": "Three Rivers",
-    "monthly_rent_gbp": 1807,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1808,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000103": {
     "area_level": "local_authority",
     "area_name": "Watford",
-    "monthly_rent_gbp": 1813,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1811,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000105": {
     "area_level": "local_authority",
     "area_name": "Ashford",
-    "monthly_rent_gbp": 1239,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1241,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000106": {
     "area_level": "local_authority",
     "area_name": "Canterbury",
-    "monthly_rent_gbp": 1260,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1268,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000107": {
     "area_level": "local_authority",
     "area_name": "Dartford",
-    "monthly_rent_gbp": 1556,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1559,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000108": {
     "area_level": "local_authority",
     "area_name": "Dover",
-    "monthly_rent_gbp": 962,
-    "period": "2026-03",
+    "monthly_rent_gbp": 980,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000109": {
     "area_level": "local_authority",
     "area_name": "Gravesham",
-    "monthly_rent_gbp": 1319,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1324,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000110": {
     "area_level": "local_authority",
     "area_name": "Maidstone",
-    "monthly_rent_gbp": 1282,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1286,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000111": {
     "area_level": "local_authority",
     "area_name": "Sevenoaks",
-    "monthly_rent_gbp": 1781,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1785,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000112": {
     "area_level": "local_authority",
     "area_name": "Folkestone and Hythe",
-    "monthly_rent_gbp": 1132,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1145,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000113": {
     "area_level": "local_authority",
     "area_name": "Swale",
-    "monthly_rent_gbp": 1104,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1091,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000114": {
     "area_level": "local_authority",
     "area_name": "Thanet",
-    "monthly_rent_gbp": 1107,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1108,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000115": {
     "area_level": "local_authority",
     "area_name": "Tonbridge and Malling",
-    "monthly_rent_gbp": 1467,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1474,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000116": {
     "area_level": "local_authority",
     "area_name": "Tunbridge Wells",
-    "monthly_rent_gbp": 1501,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1509,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000117": {
     "area_level": "local_authority",
     "area_name": "Burnley",
-    "monthly_rent_gbp": 624,
-    "period": "2026-03",
+    "monthly_rent_gbp": 620,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000118": {
     "area_level": "local_authority",
     "area_name": "Chorley",
-    "monthly_rent_gbp": 773,
-    "period": "2026-03",
+    "monthly_rent_gbp": 775,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000119": {
     "area_level": "local_authority",
     "area_name": "Fylde",
-    "monthly_rent_gbp": 848,
-    "period": "2026-03",
+    "monthly_rent_gbp": 853,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000120": {
     "area_level": "local_authority",
     "area_name": "Hyndburn",
-    "monthly_rent_gbp": 638,
-    "period": "2026-03",
+    "monthly_rent_gbp": 639,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000121": {
     "area_level": "local_authority",
     "area_name": "Lancaster",
-    "monthly_rent_gbp": 802,
-    "period": "2026-03",
+    "monthly_rent_gbp": 804,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000122": {
     "area_level": "local_authority",
     "area_name": "Pendle",
-    "monthly_rent_gbp": 645,
-    "period": "2026-03",
+    "monthly_rent_gbp": 647,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000123": {
     "area_level": "local_authority",
     "area_name": "Preston",
-    "monthly_rent_gbp": 778,
-    "period": "2026-03",
+    "monthly_rent_gbp": 780,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000124": {
     "area_level": "local_authority",
     "area_name": "Ribble Valley",
-    "monthly_rent_gbp": 803,
-    "period": "2026-03",
+    "monthly_rent_gbp": 806,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000125": {
     "area_level": "local_authority",
     "area_name": "Rossendale",
     "monthly_rent_gbp": 810,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000126": {
     "area_level": "local_authority",
     "area_name": "South Ribble",
-    "monthly_rent_gbp": 787,
-    "period": "2026-03",
+    "monthly_rent_gbp": 790,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000127": {
     "area_level": "local_authority",
     "area_name": "West Lancashire",
-    "monthly_rent_gbp": 794,
-    "period": "2026-03",
+    "monthly_rent_gbp": 797,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000128": {
     "area_level": "local_authority",
     "area_name": "Wyre",
-    "monthly_rent_gbp": 717,
-    "period": "2026-03",
+    "monthly_rent_gbp": 721,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000129": {
     "area_level": "local_authority",
     "area_name": "Blaby",
-    "monthly_rent_gbp": 977,
-    "period": "2026-03",
+    "monthly_rent_gbp": 978,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000130": {
     "area_level": "local_authority",
     "area_name": "Charnwood",
-    "monthly_rent_gbp": 949,
-    "period": "2026-03",
+    "monthly_rent_gbp": 952,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000131": {
     "area_level": "local_authority",
     "area_name": "Harborough",
-    "monthly_rent_gbp": 960,
-    "period": "2026-03",
+    "monthly_rent_gbp": 961,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000132": {
     "area_level": "local_authority",
     "area_name": "Hinckley and Bosworth",
-    "monthly_rent_gbp": 920,
-    "period": "2026-03",
+    "monthly_rent_gbp": 922,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000133": {
     "area_level": "local_authority",
     "area_name": "Melton",
     "monthly_rent_gbp": 790,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000134": {
     "area_level": "local_authority",
     "area_name": "North West Leicestershire",
-    "monthly_rent_gbp": 899,
-    "period": "2026-03",
+    "monthly_rent_gbp": 901,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000135": {
     "area_level": "local_authority",
     "area_name": "Oadby and Wigston",
-    "monthly_rent_gbp": 1020,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1022,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000136": {
     "area_level": "local_authority",
     "area_name": "Boston",
-    "monthly_rent_gbp": 793,
-    "period": "2026-03",
+    "monthly_rent_gbp": 794,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000137": {
     "area_level": "local_authority",
     "area_name": "East Lindsey",
-    "monthly_rent_gbp": 678,
-    "period": "2026-03",
+    "monthly_rent_gbp": 687,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000138": {
     "area_level": "local_authority",
     "area_name": "Lincoln",
-    "monthly_rent_gbp": 946,
-    "period": "2026-03",
+    "monthly_rent_gbp": 950,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000139": {
     "area_level": "local_authority",
     "area_name": "North Kesteven",
-    "monthly_rent_gbp": 857,
-    "period": "2026-03",
+    "monthly_rent_gbp": 845,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000140": {
     "area_level": "local_authority",
     "area_name": "South Holland",
-    "monthly_rent_gbp": 759,
-    "period": "2026-03",
+    "monthly_rent_gbp": 760,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000141": {
     "area_level": "local_authority",
     "area_name": "South Kesteven",
-    "monthly_rent_gbp": 835,
-    "period": "2026-03",
+    "monthly_rent_gbp": 837,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000142": {
     "area_level": "local_authority",
     "area_name": "West Lindsey",
-    "monthly_rent_gbp": 711,
-    "period": "2026-03",
+    "monthly_rent_gbp": 713,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000143": {
     "area_level": "local_authority",
     "area_name": "Breckland",
-    "monthly_rent_gbp": 909,
-    "period": "2026-03",
+    "monthly_rent_gbp": 913,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000144": {
     "area_level": "local_authority",
     "area_name": "Broadland",
-    "monthly_rent_gbp": 934,
-    "period": "2026-03",
+    "monthly_rent_gbp": 935,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000145": {
     "area_level": "local_authority",
     "area_name": "Great Yarmouth",
-    "monthly_rent_gbp": 816,
-    "period": "2026-03",
+    "monthly_rent_gbp": 825,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000146": {
     "area_level": "local_authority",
     "area_name": "King's Lynn and West Norfolk",
-    "monthly_rent_gbp": 930,
-    "period": "2026-03",
+    "monthly_rent_gbp": 933,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000147": {
     "area_level": "local_authority",
     "area_name": "North Norfolk",
-    "monthly_rent_gbp": 856,
-    "period": "2026-03",
+    "monthly_rent_gbp": 858,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000148": {
     "area_level": "local_authority",
     "area_name": "Norwich",
-    "monthly_rent_gbp": 1146,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1149,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000149": {
     "area_level": "local_authority",
     "area_name": "South Norfolk",
-    "monthly_rent_gbp": 969,
-    "period": "2026-03",
+    "monthly_rent_gbp": 973,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000170": {
     "area_level": "local_authority",
     "area_name": "Ashfield",
-    "monthly_rent_gbp": 777,
-    "period": "2026-03",
+    "monthly_rent_gbp": 780,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000171": {
     "area_level": "local_authority",
     "area_name": "Bassetlaw",
-    "monthly_rent_gbp": 716,
-    "period": "2026-03",
+    "monthly_rent_gbp": 717,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000172": {
     "area_level": "local_authority",
     "area_name": "Broxtowe",
-    "monthly_rent_gbp": 963,
-    "period": "2026-03",
+    "monthly_rent_gbp": 958,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000173": {
     "area_level": "local_authority",
     "area_name": "Gedling",
     "monthly_rent_gbp": 891,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000174": {
     "area_level": "local_authority",
     "area_name": "Mansfield",
-    "monthly_rent_gbp": 770,
-    "period": "2026-03",
+    "monthly_rent_gbp": 772,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000175": {
     "area_level": "local_authority",
     "area_name": "Newark and Sherwood",
-    "monthly_rent_gbp": 787,
-    "period": "2026-03",
+    "monthly_rent_gbp": 789,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000176": {
     "area_level": "local_authority",
     "area_name": "Rushcliffe",
-    "monthly_rent_gbp": 1031,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1032,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000177": {
     "area_level": "local_authority",
     "area_name": "Cherwell",
     "monthly_rent_gbp": 1289,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000178": {
     "area_level": "local_authority",
     "area_name": "Oxford",
-    "monthly_rent_gbp": 1952,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1956,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000179": {
     "area_level": "local_authority",
     "area_name": "South Oxfordshire",
-    "monthly_rent_gbp": 1377,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1380,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000180": {
     "area_level": "local_authority",
     "area_name": "Vale of White Horse",
     "monthly_rent_gbp": 1332,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000181": {
     "area_level": "local_authority",
     "area_name": "West Oxfordshire",
-    "monthly_rent_gbp": 1270,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1273,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000192": {
     "area_level": "local_authority",
     "area_name": "Cannock Chase",
-    "monthly_rent_gbp": 841,
-    "period": "2026-03",
+    "monthly_rent_gbp": 845,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000193": {
     "area_level": "local_authority",
     "area_name": "East Staffordshire",
-    "monthly_rent_gbp": 833,
-    "period": "2026-03",
+    "monthly_rent_gbp": 836,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000194": {
     "area_level": "local_authority",
     "area_name": "Lichfield",
-    "monthly_rent_gbp": 1091,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1094,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000195": {
     "area_level": "local_authority",
     "area_name": "Newcastle-under-Lyme",
-    "monthly_rent_gbp": 824,
-    "period": "2026-03",
+    "monthly_rent_gbp": 825,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000196": {
     "area_level": "local_authority",
     "area_name": "South Staffordshire",
-    "monthly_rent_gbp": 942,
-    "period": "2026-03",
+    "monthly_rent_gbp": 945,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000197": {
     "area_level": "local_authority",
     "area_name": "Stafford",
-    "monthly_rent_gbp": 882,
-    "period": "2026-03",
+    "monthly_rent_gbp": 888,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000198": {
     "area_level": "local_authority",
     "area_name": "Staffordshire Moorlands",
-    "monthly_rent_gbp": 718,
-    "period": "2026-03",
+    "monthly_rent_gbp": 717,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000199": {
     "area_level": "local_authority",
     "area_name": "Tamworth",
-    "monthly_rent_gbp": 966,
-    "period": "2026-03",
+    "monthly_rent_gbp": 953,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000200": {
     "area_level": "local_authority",
     "area_name": "Babergh",
-    "monthly_rent_gbp": 969,
-    "period": "2026-03",
+    "monthly_rent_gbp": 970,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000202": {
     "area_level": "local_authority",
     "area_name": "Ipswich",
-    "monthly_rent_gbp": 985,
-    "period": "2026-03",
+    "monthly_rent_gbp": 986,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000203": {
     "area_level": "local_authority",
     "area_name": "Mid Suffolk",
-    "monthly_rent_gbp": 973,
-    "period": "2026-03",
+    "monthly_rent_gbp": 983,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000207": {
     "area_level": "local_authority",
     "area_name": "Elmbridge",
-    "monthly_rent_gbp": 1832,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1831,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000208": {
     "area_level": "local_authority",
     "area_name": "Epsom and Ewell",
-    "monthly_rent_gbp": 1682,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1683,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000209": {
     "area_level": "local_authority",
     "area_name": "Guildford",
-    "monthly_rent_gbp": 1698,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1716,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000210": {
     "area_level": "local_authority",
     "area_name": "Mole Valley",
-    "monthly_rent_gbp": 1545,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1546,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000211": {
     "area_level": "local_authority",
     "area_name": "Reigate and Banstead",
-    "monthly_rent_gbp": 1628,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1632,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000212": {
     "area_level": "local_authority",
     "area_name": "Runnymede",
-    "monthly_rent_gbp": 1567,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1571,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000213": {
     "area_level": "local_authority",
     "area_name": "Spelthorne",
-    "monthly_rent_gbp": 1633,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1632,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000214": {
     "area_level": "local_authority",
     "area_name": "Surrey Heath",
-    "monthly_rent_gbp": 1493,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1498,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000215": {
     "area_level": "local_authority",
     "area_name": "Tandridge",
-    "monthly_rent_gbp": 1596,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1608,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000216": {
     "area_level": "local_authority",
     "area_name": "Waverley",
-    "monthly_rent_gbp": 1431,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1441,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000217": {
     "area_level": "local_authority",
     "area_name": "Woking",
     "monthly_rent_gbp": 1615,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000218": {
     "area_level": "local_authority",
     "area_name": "North Warwickshire",
-    "monthly_rent_gbp": 972,
-    "period": "2026-03",
+    "monthly_rent_gbp": 974,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000219": {
     "area_level": "local_authority",
     "area_name": "Nuneaton and Bedworth",
-    "monthly_rent_gbp": 914,
-    "period": "2026-03",
+    "monthly_rent_gbp": 915,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000220": {
     "area_level": "local_authority",
     "area_name": "Rugby",
-    "monthly_rent_gbp": 1028,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1033,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000221": {
     "area_level": "local_authority",
     "area_name": "Stratford-on-Avon",
-    "monthly_rent_gbp": 1120,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1132,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000222": {
     "area_level": "local_authority",
     "area_name": "Warwick",
     "monthly_rent_gbp": 1237,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000223": {
     "area_level": "local_authority",
     "area_name": "Adur",
-    "monthly_rent_gbp": 1379,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1383,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000224": {
     "area_level": "local_authority",
     "area_name": "Arun",
-    "monthly_rent_gbp": 1217,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1221,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000225": {
     "area_level": "local_authority",
     "area_name": "Chichester",
-    "monthly_rent_gbp": 1319,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1322,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000226": {
     "area_level": "local_authority",
     "area_name": "Crawley",
-    "monthly_rent_gbp": 1475,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1478,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000227": {
     "area_level": "local_authority",
     "area_name": "Horsham",
-    "monthly_rent_gbp": 1444,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1449,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000228": {
     "area_level": "local_authority",
     "area_name": "Mid Sussex",
-    "monthly_rent_gbp": 1405,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1410,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000229": {
     "area_level": "local_authority",
     "area_name": "Worthing",
-    "monthly_rent_gbp": 1310,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1311,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000234": {
     "area_level": "local_authority",
     "area_name": "Bromsgrove",
-    "monthly_rent_gbp": 977,
-    "period": "2026-03",
+    "monthly_rent_gbp": 979,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000235": {
     "area_level": "local_authority",
     "area_name": "Malvern Hills",
-    "monthly_rent_gbp": 938,
-    "period": "2026-03",
+    "monthly_rent_gbp": 941,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000236": {
     "area_level": "local_authority",
     "area_name": "Redditch",
-    "monthly_rent_gbp": 898,
-    "period": "2026-03",
+    "monthly_rent_gbp": 900,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000237": {
     "area_level": "local_authority",
     "area_name": "Worcester",
-    "monthly_rent_gbp": 955,
-    "period": "2026-03",
+    "monthly_rent_gbp": 960,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000238": {
     "area_level": "local_authority",
     "area_name": "Wychavon",
-    "monthly_rent_gbp": 925,
-    "period": "2026-03",
+    "monthly_rent_gbp": 929,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000239": {
     "area_level": "local_authority",
     "area_name": "Wyre Forest",
-    "monthly_rent_gbp": 849,
-    "period": "2026-03",
+    "monthly_rent_gbp": 835,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000240": {
     "area_level": "local_authority",
     "area_name": "St Albans",
-    "monthly_rent_gbp": 1912,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1919,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000241": {
     "area_level": "local_authority",
     "area_name": "Welwyn Hatfield",
-    "monthly_rent_gbp": 1468,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1471,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000242": {
     "area_level": "local_authority",
     "area_name": "East Hertfordshire",
-    "monthly_rent_gbp": 1504,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1500,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000243": {
     "area_level": "local_authority",
     "area_name": "Stevenage",
-    "monthly_rent_gbp": 1417,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1421,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000244": {
     "area_level": "local_authority",
     "area_name": "East Suffolk",
-    "monthly_rent_gbp": 831,
-    "period": "2026-03",
+    "monthly_rent_gbp": 832,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E07000245": {
     "area_level": "local_authority",
     "area_name": "West Suffolk",
     "monthly_rent_gbp": 1176,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000001": {
     "area_level": "local_authority",
     "area_name": "Bolton",
-    "monthly_rent_gbp": 878,
-    "period": "2026-03",
+    "monthly_rent_gbp": 882,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000002": {
     "area_level": "local_authority",
     "area_name": "Bury",
-    "monthly_rent_gbp": 965,
-    "period": "2026-03",
+    "monthly_rent_gbp": 966,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000003": {
     "area_level": "local_authority",
     "area_name": "Manchester",
-    "monthly_rent_gbp": 1347,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1349,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000004": {
     "area_level": "local_authority",
     "area_name": "Oldham",
-    "monthly_rent_gbp": 910,
-    "period": "2026-03",
+    "monthly_rent_gbp": 915,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000005": {
     "area_level": "local_authority",
     "area_name": "Rochdale",
-    "monthly_rent_gbp": 824,
-    "period": "2026-03",
+    "monthly_rent_gbp": 827,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000006": {
     "area_level": "local_authority",
     "area_name": "Salford",
-    "monthly_rent_gbp": 1161,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1162,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000007": {
     "area_level": "local_authority",
     "area_name": "Stockport",
-    "monthly_rent_gbp": 1091,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1095,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000008": {
     "area_level": "local_authority",
     "area_name": "Tameside",
-    "monthly_rent_gbp": 917,
-    "period": "2026-03",
+    "monthly_rent_gbp": 919,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000009": {
     "area_level": "local_authority",
     "area_name": "Trafford",
-    "monthly_rent_gbp": 1358,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1359,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000010": {
     "area_level": "local_authority",
     "area_name": "Wigan",
-    "monthly_rent_gbp": 732,
-    "period": "2026-03",
+    "monthly_rent_gbp": 737,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000011": {
     "area_level": "local_authority",
     "area_name": "Knowsley",
-    "monthly_rent_gbp": 805,
-    "period": "2026-03",
+    "monthly_rent_gbp": 809,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000012": {
     "area_level": "local_authority",
     "area_name": "Liverpool",
-    "monthly_rent_gbp": 893,
-    "period": "2026-03",
+    "monthly_rent_gbp": 897,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000013": {
     "area_level": "local_authority",
     "area_name": "St. Helens",
-    "monthly_rent_gbp": 774,
-    "period": "2026-03",
+    "monthly_rent_gbp": 782,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000014": {
     "area_level": "local_authority",
     "area_name": "Sefton",
-    "monthly_rent_gbp": 919,
-    "period": "2026-03",
+    "monthly_rent_gbp": 924,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000015": {
     "area_level": "local_authority",
     "area_name": "Wirral",
-    "monthly_rent_gbp": 830,
-    "period": "2026-03",
+    "monthly_rent_gbp": 835,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000017": {
     "area_level": "local_authority",
     "area_name": "Doncaster",
-    "monthly_rent_gbp": 684,
-    "period": "2026-03",
+    "monthly_rent_gbp": 687,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000018": {
     "area_level": "local_authority",
     "area_name": "Rotherham",
-    "monthly_rent_gbp": 678,
-    "period": "2026-03",
+    "monthly_rent_gbp": 679,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000021": {
     "area_level": "local_authority",
     "area_name": "Newcastle upon Tyne",
     "monthly_rent_gbp": 1206,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000022": {
     "area_level": "local_authority",
     "area_name": "North Tyneside",
-    "monthly_rent_gbp": 830,
-    "period": "2026-03",
+    "monthly_rent_gbp": 834,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000023": {
     "area_level": "local_authority",
     "area_name": "South Tyneside",
-    "monthly_rent_gbp": 720,
-    "period": "2026-03",
+    "monthly_rent_gbp": 723,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000024": {
     "area_level": "local_authority",
     "area_name": "Sunderland",
-    "monthly_rent_gbp": 695,
-    "period": "2026-03",
+    "monthly_rent_gbp": 699,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000025": {
     "area_level": "local_authority",
     "area_name": "Birmingham",
     "monthly_rent_gbp": 1086,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000026": {
     "area_level": "local_authority",
     "area_name": "Coventry",
-    "monthly_rent_gbp": 1021,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1019,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000027": {
     "area_level": "local_authority",
     "area_name": "Dudley",
-    "monthly_rent_gbp": 846,
-    "period": "2026-03",
+    "monthly_rent_gbp": 847,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000028": {
     "area_level": "local_authority",
     "area_name": "Sandwell",
-    "monthly_rent_gbp": 938,
-    "period": "2026-03",
+    "monthly_rent_gbp": 939,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000029": {
     "area_level": "local_authority",
     "area_name": "Solihull",
-    "monthly_rent_gbp": 1258,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1259,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000030": {
     "area_level": "local_authority",
     "area_name": "Walsall",
-    "monthly_rent_gbp": 904,
-    "period": "2026-03",
+    "monthly_rent_gbp": 906,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000031": {
     "area_level": "local_authority",
     "area_name": "Wolverhampton",
-    "monthly_rent_gbp": 928,
-    "period": "2026-03",
+    "monthly_rent_gbp": 931,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000032": {
     "area_level": "local_authority",
     "area_name": "Bradford",
-    "monthly_rent_gbp": 737,
-    "period": "2026-03",
+    "monthly_rent_gbp": 742,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000033": {
     "area_level": "local_authority",
     "area_name": "Calderdale",
-    "monthly_rent_gbp": 741,
-    "period": "2026-03",
+    "monthly_rent_gbp": 746,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000034": {
     "area_level": "local_authority",
     "area_name": "Kirklees",
-    "monthly_rent_gbp": 759,
-    "period": "2026-03",
+    "monthly_rent_gbp": 767,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000035": {
     "area_level": "local_authority",
     "area_name": "Leeds",
-    "monthly_rent_gbp": 1130,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1133,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000036": {
     "area_level": "local_authority",
     "area_name": "Wakefield",
-    "monthly_rent_gbp": 787,
-    "period": "2026-03",
+    "monthly_rent_gbp": 791,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000037": {
     "area_level": "local_authority",
     "area_name": "Gateshead",
-    "monthly_rent_gbp": 785,
-    "period": "2026-03",
+    "monthly_rent_gbp": 788,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000038": {
     "area_level": "local_authority",
     "area_name": "Barnsley",
-    "monthly_rent_gbp": 670,
-    "period": "2026-03",
+    "monthly_rent_gbp": 674,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E08000039": {
     "area_level": "local_authority",
     "area_name": "Sheffield",
     "monthly_rent_gbp": 920,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000002": {
     "area_level": "local_authority",
     "area_name": "Barking and Dagenham",
-    "monthly_rent_gbp": 1687,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1688,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000003": {
     "area_level": "local_authority",
     "area_name": "Barnet",
-    "monthly_rent_gbp": 1928,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1931,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000004": {
     "area_level": "local_authority",
     "area_name": "Bexley",
-    "monthly_rent_gbp": 1531,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1525,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000005": {
     "area_level": "local_authority",
     "area_name": "Brent",
-    "monthly_rent_gbp": 1969,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1990,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000006": {
     "area_level": "local_authority",
     "area_name": "Bromley",
-    "monthly_rent_gbp": 1670,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1673,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000007": {
     "area_level": "local_authority",
     "area_name": "Camden",
-    "monthly_rent_gbp": 2654,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2724,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000008": {
     "area_level": "local_authority",
     "area_name": "Croydon",
-    "monthly_rent_gbp": 1560,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1565,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000009": {
     "area_level": "local_authority",
     "area_name": "Ealing",
-    "monthly_rent_gbp": 2051,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2057,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000010": {
     "area_level": "local_authority",
     "area_name": "Enfield",
-    "monthly_rent_gbp": 1770,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1775,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000011": {
     "area_level": "local_authority",
     "area_name": "Greenwich",
-    "monthly_rent_gbp": 1944,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1949,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000012": {
     "area_level": "local_authority",
     "area_name": "Hackney",
-    "monthly_rent_gbp": 2598,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2615,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000013": {
     "area_level": "local_authority",
     "area_name": "Hammersmith and Fulham",
-    "monthly_rent_gbp": 2724,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2755,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000014": {
     "area_level": "local_authority",
     "area_name": "Haringey",
-    "monthly_rent_gbp": 2209,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2214,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000015": {
     "area_level": "local_authority",
     "area_name": "Harrow",
-    "monthly_rent_gbp": 1754,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1755,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000016": {
     "area_level": "local_authority",
     "area_name": "Havering",
-    "monthly_rent_gbp": 1566,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1565,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000017": {
     "area_level": "local_authority",
     "area_name": "Hillingdon",
-    "monthly_rent_gbp": 1549,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1553,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000018": {
     "area_level": "local_authority",
     "area_name": "Hounslow",
-    "monthly_rent_gbp": 1907,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1922,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000019": {
     "area_level": "local_authority",
     "area_name": "Islington",
-    "monthly_rent_gbp": 2763,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2811,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000020": {
     "area_level": "local_authority",
     "area_name": "Kensington and Chelsea",
-    "monthly_rent_gbp": 3599,
-    "period": "2026-03",
+    "monthly_rent_gbp": 3597,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000021": {
     "area_level": "local_authority",
     "area_name": "Kingston upon Thames",
-    "monthly_rent_gbp": 1796,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1799,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000022": {
     "area_level": "local_authority",
     "area_name": "Lambeth",
-    "monthly_rent_gbp": 2525,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2529,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000023": {
     "area_level": "local_authority",
     "area_name": "Lewisham",
-    "monthly_rent_gbp": 1810,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1816,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000024": {
     "area_level": "local_authority",
     "area_name": "Merton",
-    "monthly_rent_gbp": 2083,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2097,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000025": {
     "area_level": "local_authority",
     "area_name": "Newham",
-    "monthly_rent_gbp": 1912,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1918,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000026": {
     "area_level": "local_authority",
     "area_name": "Redbridge",
-    "monthly_rent_gbp": 1720,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1724,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000027": {
     "area_level": "local_authority",
     "area_name": "Richmond upon Thames",
-    "monthly_rent_gbp": 2302,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2307,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000028": {
     "area_level": "local_authority",
     "area_name": "Southwark",
-    "monthly_rent_gbp": 2388,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2395,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000029": {
     "area_level": "local_authority",
     "area_name": "Sutton",
-    "monthly_rent_gbp": 1545,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1547,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000030": {
     "area_level": "local_authority",
     "area_name": "Tower Hamlets",
-    "monthly_rent_gbp": 2396,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2410,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000031": {
     "area_level": "local_authority",
     "area_name": "Waltham Forest",
-    "monthly_rent_gbp": 1753,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1758,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000032": {
     "area_level": "local_authority",
     "area_name": "Wandsworth",
-    "monthly_rent_gbp": 2593,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2599,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E09000033": {
     "area_level": "local_authority",
     "area_name": "Westminster",
-    "monthly_rent_gbp": 3122,
-    "period": "2026-03",
+    "monthly_rent_gbp": 3149,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000001": {
     "area_level": "region",
     "area_name": "North East",
-    "monthly_rent_gbp": 772,
-    "period": "2026-03",
+    "monthly_rent_gbp": 776,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000002": {
     "area_level": "region",
     "area_name": "North West",
-    "monthly_rent_gbp": 947,
-    "period": "2026-03",
+    "monthly_rent_gbp": 951,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000003": {
     "area_level": "region",
     "area_name": "Yorkshire and The Humber",
-    "monthly_rent_gbp": 852,
-    "period": "2026-03",
+    "monthly_rent_gbp": 855,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000004": {
     "area_level": "region",
     "area_name": "East Midlands",
-    "monthly_rent_gbp": 910,
-    "period": "2026-03",
+    "monthly_rent_gbp": 911,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000005": {
     "area_level": "region",
     "area_name": "West Midlands",
     "monthly_rent_gbp": 964,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000006": {
     "area_level": "region",
     "area_name": "East of England",
-    "monthly_rent_gbp": 1274,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1278,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000007": {
     "area_level": "region",
     "area_name": "London",
-    "monthly_rent_gbp": 2280,
-    "period": "2026-03",
+    "monthly_rent_gbp": 2290,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000008": {
     "area_level": "region",
     "area_name": "South East",
-    "monthly_rent_gbp": 1411,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1414,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E12000009": {
     "area_level": "region",
     "area_name": "South West",
-    "monthly_rent_gbp": 1227,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1231,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "E92000001": {
     "area_level": "country",
     "area_name": "England",
-    "monthly_rent_gbp": 1434,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1438,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "K02000001": {
     "area_level": "country",
     "area_name": "United Kingdom",
-    "monthly_rent_gbp": 1377,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1381,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "K03000001": {
     "area_level": "local_authority",
     "area_name": "Great Britain",
-    "monthly_rent_gbp": 1389,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1393,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "N92000002": {
     "area_level": "country",
     "area_name": "Northern Ireland",
-    "monthly_rent_gbp": 880,
-    "period": "2026-01",
+    "monthly_rent_gbp": 877,
+    "period": "2026-02",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000001": {
     "area_level": "local_authority",
     "area_name": "Aberdeen and Shire",
-    "monthly_rent_gbp": 860,
-    "period": "2026-03",
+    "monthly_rent_gbp": 858,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000002": {
     "area_level": "local_authority",
     "area_name": "Argyll and Bute",
-    "monthly_rent_gbp": 851,
-    "period": "2026-03",
+    "monthly_rent_gbp": 848,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000003": {
     "area_level": "local_authority",
     "area_name": "Ayrshires",
-    "monthly_rent_gbp": 663,
-    "period": "2026-03",
+    "monthly_rent_gbp": 660,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000004": {
     "area_level": "local_authority",
     "area_name": "Dumfries and Galloway",
-    "monthly_rent_gbp": 554,
-    "period": "2026-03",
+    "monthly_rent_gbp": 552,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000005": {
     "area_level": "local_authority",
     "area_name": "Dundee and Angus",
-    "monthly_rent_gbp": 834,
-    "period": "2026-03",
+    "monthly_rent_gbp": 833,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000006": {
     "area_level": "local_authority",
     "area_name": "East Dunbartonshire",
-    "monthly_rent_gbp": 1159,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1161,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000007": {
     "area_level": "local_authority",
     "area_name": "Fife",
-    "monthly_rent_gbp": 812,
-    "period": "2026-03",
+    "monthly_rent_gbp": 815,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000008": {
     "area_level": "local_authority",
     "area_name": "Forth Valley",
-    "monthly_rent_gbp": 900,
-    "period": "2026-03",
+    "monthly_rent_gbp": 897,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000009": {
     "area_level": "local_authority",
     "area_name": "Greater Glasgow",
-    "monthly_rent_gbp": 1276,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1278,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000010": {
     "area_level": "local_authority",
     "area_name": "Highland and Islands",
-    "monthly_rent_gbp": 723,
-    "period": "2026-03",
+    "monthly_rent_gbp": 722,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000011": {
     "area_level": "local_authority",
     "area_name": "Lothian",
     "monthly_rent_gbp": 1432,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000012": {
     "area_level": "local_authority",
     "area_name": "North Lanarkshire",
-    "monthly_rent_gbp": 812,
-    "period": "2026-03",
+    "monthly_rent_gbp": 809,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000013": {
     "area_level": "local_authority",
     "area_name": "Perth and Kinross",
-    "monthly_rent_gbp": 753,
-    "period": "2026-03",
+    "monthly_rent_gbp": 749,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000014": {
     "area_level": "local_authority",
     "area_name": "Renfrewshire/Inverclyde",
-    "monthly_rent_gbp": 826,
-    "period": "2026-03",
+    "monthly_rent_gbp": 821,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000015": {
     "area_level": "local_authority",
     "area_name": "Scottish Borders",
-    "monthly_rent_gbp": 707,
-    "period": "2026-03",
+    "monthly_rent_gbp": 708,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000016": {
     "area_level": "local_authority",
     "area_name": "South Lanarkshire",
-    "monthly_rent_gbp": 884,
-    "period": "2026-03",
+    "monthly_rent_gbp": 882,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000017": {
     "area_level": "local_authority",
     "area_name": "West Dunbartonshire",
-    "monthly_rent_gbp": 934,
-    "period": "2026-03",
+    "monthly_rent_gbp": 941,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S33000018": {
     "area_level": "local_authority",
     "area_name": "West Lothian",
-    "monthly_rent_gbp": 911,
-    "period": "2026-03",
+    "monthly_rent_gbp": 907,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "S92000003": {
     "area_level": "country",
     "area_name": "Scotland",
-    "monthly_rent_gbp": 1022,
-    "period": "2026-03",
+    "monthly_rent_gbp": 1019,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000001": {
     "area_level": "local_authority",
     "area_name": "Isle of Anglesey",
-    "monthly_rent_gbp": 710,
-    "period": "2026-03",
+    "monthly_rent_gbp": 705,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000002": {
     "area_level": "local_authority",
     "area_name": "Gwynedd",
-    "monthly_rent_gbp": 685,
-    "period": "2026-03",
+    "monthly_rent_gbp": 697,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000003": {
     "area_level": "local_authority",
     "area_name": "Conwy",
-    "monthly_rent_gbp": 776,
-    "period": "2026-03",
+    "monthly_rent_gbp": 778,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000004": {
     "area_level": "local_authority",
     "area_name": "Denbighshire",
-    "monthly_rent_gbp": 701,
-    "period": "2026-03",
+    "monthly_rent_gbp": 703,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000005": {
     "area_level": "local_authority",
     "area_name": "Flintshire",
-    "monthly_rent_gbp": 778,
-    "period": "2026-03",
+    "monthly_rent_gbp": 784,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000006": {
     "area_level": "local_authority",
     "area_name": "Wrexham",
-    "monthly_rent_gbp": 759,
-    "period": "2026-03",
+    "monthly_rent_gbp": 757,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000008": {
     "area_level": "local_authority",
     "area_name": "Ceredigion",
-    "monthly_rent_gbp": 710,
-    "period": "2026-03",
+    "monthly_rent_gbp": 709,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000009": {
     "area_level": "local_authority",
     "area_name": "Pembrokeshire",
-    "monthly_rent_gbp": 687,
-    "period": "2026-03",
+    "monthly_rent_gbp": 689,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000010": {
     "area_level": "local_authority",
     "area_name": "Carmarthenshire",
-    "monthly_rent_gbp": 668,
-    "period": "2026-03",
+    "monthly_rent_gbp": 674,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000011": {
     "area_level": "local_authority",
     "area_name": "Swansea",
-    "monthly_rent_gbp": 833,
-    "period": "2026-03",
+    "monthly_rent_gbp": 835,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000012": {
     "area_level": "local_authority",
     "area_name": "Neath Port Talbot",
-    "monthly_rent_gbp": 668,
-    "period": "2026-03",
+    "monthly_rent_gbp": 674,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000013": {
     "area_level": "local_authority",
     "area_name": "Bridgend",
-    "monthly_rent_gbp": 736,
-    "period": "2026-03",
+    "monthly_rent_gbp": 742,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000014": {
     "area_level": "local_authority",
     "area_name": "Vale of Glamorgan",
-    "monthly_rent_gbp": 982,
-    "period": "2026-03",
+    "monthly_rent_gbp": 985,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000015": {
     "area_level": "local_authority",
     "area_name": "Cardiff",
     "monthly_rent_gbp": 1157,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000016": {
     "area_level": "local_authority",
     "area_name": "Rhondda Cynon Taf",
-    "monthly_rent_gbp": 744,
-    "period": "2026-03",
+    "monthly_rent_gbp": 747,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000018": {
     "area_level": "local_authority",
     "area_name": "Caerphilly",
-    "monthly_rent_gbp": 736,
-    "period": "2026-03",
+    "monthly_rent_gbp": 739,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000019": {
     "area_level": "local_authority",
     "area_name": "Blaenau Gwent",
-    "monthly_rent_gbp": 668,
-    "period": "2026-03",
+    "monthly_rent_gbp": 672,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000020": {
     "area_level": "local_authority",
     "area_name": "Torfaen",
-    "monthly_rent_gbp": 853,
-    "period": "2026-03",
+    "monthly_rent_gbp": 855,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000021": {
     "area_level": "local_authority",
     "area_name": "Monmouthshire",
-    "monthly_rent_gbp": 987,
-    "period": "2026-03",
+    "monthly_rent_gbp": 989,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000022": {
     "area_level": "local_authority",
     "area_name": "Newport",
     "monthly_rent_gbp": 953,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000023": {
     "area_level": "local_authority",
     "area_name": "Powys",
     "monthly_rent_gbp": 621,
-    "period": "2026-03",
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W06000024": {
     "area_level": "local_authority",
     "area_name": "Merthyr Tydfil",
-    "monthly_rent_gbp": 753,
-    "period": "2026-03",
+    "monthly_rent_gbp": 754,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "W92000004": {
     "area_level": "country",
     "area_name": "Wales",
-    "monthly_rent_gbp": 830,
-    "period": "2026-03",
+    "monthly_rent_gbp": 834,
+    "period": "2026-04",
     "source": "ONS Price Index of Private Rents"
   },
   "[z]": {
     "area_level": "local_authority",
     "area_name": "Belfast BRMA",
-    "monthly_rent_gbp": 1130,
-    "period": "2026-01",
+    "monthly_rent_gbp": 1131,
+    "period": "2026-02",
     "source": "ONS Price Index of Private Rents"
   }
 }
